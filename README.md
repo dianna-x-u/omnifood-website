@@ -1,2 +1,2 @@
 # omnifood-website
-Access the website here: sample-food-website-dx.netlify.app
+[Access the website here](https://sample-food-website-dx.netlify.app)
